@@ -1,4 +1,4 @@
-# tf2.inizio.me
+# tf2.inizio.me:7470
 
 My dedicated TF2 server, currently used for MGE mostly
 
