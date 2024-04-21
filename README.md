@@ -18,7 +18,8 @@ It's currently hosted in [Bisect Hosting](https://games.bisecthosting.com)
     1. SourceMod from https://www.sourcemod.net/downloads.php?branch=stable
     2. Metamod from https://sourcemm.net/downloads.php?branch=stable
     3. MGE mod from https://github.com/sapphonie/MGEMod/releases
-    4. Stats pljugin from https://forums.alliedmods.net/showthread.php?t=109006
+    4. Stats plugin from https://forums.alliedmods.net/showthread.php?t=109006
+    5. Custom votes plugin from https://forums.alliedmods.net/showthread.php?p=633808
 2. Generate vdf https://sourcemm.net/vdf and replace the one in Metamod with it
 3. Copy these folders into the server's `tf` folder
 
