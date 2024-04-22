@@ -10,7 +10,7 @@ connect tf2.inizio.me:7470
 
 ## Environment
 
-It's currently hosted in [Bisect Hosting](https://games.bisecthosting.com)
+It's currently hosted in [DatHost](https://dathost.net/)
 
 ## Setup
 
