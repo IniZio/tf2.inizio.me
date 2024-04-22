@@ -5,7 +5,7 @@ My dedicated TF2 server, currently used for MGE mostly
 ## How to connect
 
 ```
-connect tf2.inizio.me:7470
+connect tf2.inizio.me:22736
 ```
 
 ## Environment
