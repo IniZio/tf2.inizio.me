@@ -1,5 +1,7 @@
 # tf2.inizio.me:7470
 
+> Closed since blackwonder server is back up.
+
 My dedicated TF2 server, currently used for MGE mostly
 
 ## How to connect
